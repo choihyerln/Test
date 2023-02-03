@@ -7,12 +7,11 @@
 안녕하세요
 기dga
 테스트 - 최혜린
-<<<<<<< HEAD
+dd
+작업파일을 하나 만들겠습니다 - 최혜린
 dd
 안녕하세요?!?!? 안녕하세요?!?!?
 안녕하세요?!?!!
-=======
 ddjkflaijkdlfaijdfklaiejdkfiefkjldijdkldijkfdfjklaijekl
 dd
 dd
->>>>>>> 6b1dd498eb26962fc845b560d29551d7342aa4ac
